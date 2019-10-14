@@ -21,6 +21,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assignments", "Assignments"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "E08 - Projections", "E08 - Projections\E08 - Projections.vcxproj", "{0BFF89F3-1A79-4B83-A0EB-7C16FDA662E1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A03 - Camera", "A03 - Camera\A03 - Camera.vcxproj", "{08A11DA8-4582-4AE0-90FE-929F44487E65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -65,6 +67,12 @@ Global
 		{0BFF89F3-1A79-4B83-A0EB-7C16FDA662E1}.Release|x64.ActiveCfg = Release|Win32
 		{0BFF89F3-1A79-4B83-A0EB-7C16FDA662E1}.Release|x86.ActiveCfg = Release|Win32
 		{0BFF89F3-1A79-4B83-A0EB-7C16FDA662E1}.Release|x86.Build.0 = Release|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Debug|x64.ActiveCfg = Debug|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Debug|x86.ActiveCfg = Debug|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Debug|x86.Build.0 = Debug|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Release|x64.ActiveCfg = Release|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Release|x86.ActiveCfg = Release|Win32
+		{08A11DA8-4582-4AE0-90FE-929F44487E65}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -76,6 +84,7 @@ Global
 		{562D9687-E5A5-4AE5-BCDA-0391D518E7BD} = {4B2F8FCB-A46D-4376-8FFE-6D11550CCED2}
 		{822E40D2-80A1-46EB-AD93-EC28C4F145ED} = {4B2F8FCB-A46D-4376-8FFE-6D11550CCED2}
 		{0BFF89F3-1A79-4B83-A0EB-7C16FDA662E1} = {4B2F8FCB-A46D-4376-8FFE-6D11550CCED2}
+		{08A11DA8-4582-4AE0-90FE-929F44487E65} = {44B31DC4-0B40-4294-A7C8-0F4CF6A5E464}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A36545A6-DAAA-4856-BDB7-57C29F88BC6B}
